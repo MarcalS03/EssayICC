@@ -1,12 +1,12 @@
 <h1>EssayICC</h1>
 
 <h2>Background of the Enterprise:</h2>
-The enterprise is a small bakery that specializes in custom cakes and pastries called ABC Cakes.
+<p>The enterprise is a small bakery that specializes in custom cakes and pastries called ABC Cakes.</p>
 
-<h2>Current IT Setup:</h2>
-The ABC Cakes currently has a local server that hosts their website and manages their orders and inventory. They also have a few desktop computers and laptops for employees to use for various tasks such as managing orders and creating designs for custom cakes.
+<p><b>Current IT Setup:</b></p>
+<p>The ABC Cakes currently has a local server that hosts their website and manages their orders and inventory. They also have a few desktop computers and laptops for employees to use for various tasks such as managing orders and creating designs for custom cakes.</p>
 
-<h2>Cloud vs non-cloud solutions:</h2>
+<p><b>Cloud vs non-cloud solutions</b></p>
 One of the main advantages of cloud solutions is the ability to access data and applications from any device with an internet connection. This would allow employees of ABC Cakes to access the website and manage orders from their laptops or mobile devices, increasing their flexibility and productivity. In addition, cloud solutions typically offer scalability and can be easily expanded as the business grows. On the other hand, non-cloud solutions require more upfront investment in hardware and infrastructure and are typically more difficult to scale.
 
 <h2>Recommendation:</h2> 
