@@ -14,3 +14,6 @@
 
 <p><b>Justification:</b></p>
 <p>A managed cloud service provider would be the best choice for the bakery, as it would provide them with the necessary technical support and maintenance without requiring them to hire additional IT staff. This would allow the bakery to focus on their core business and leave the technical details to the service provider. A public cloud solution would be most suitable for the bakery, as it would provide them with the necessary flexibility and scalability to meet the changing needs of their business. In addition, a public cloud solution would allow the bakery to only pay for the resources they use, reducing their overall IT costs.</p>
+
+
+https://github.com/MarcalS03/MarcalMachine.git
